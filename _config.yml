@@ -17,6 +17,7 @@ nav_exclude: # 네비게이션 바에서 제외할 페이지들
   - pages/tags.html # 태그 페이지 제외
   - pages/404.html # 404 페이지 제외
   - pages/index.md # 인덱스 페이지 제외
+  - pages/blog.html # 블로그 페이지 제외
 
 ### 작성자 정보 ###
 author:
